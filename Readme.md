@@ -6,7 +6,7 @@
 [![Downloads](https://img.shields.io/github/downloads/Tyrrrz/DiscordChatExporter/total.svg)](https://github.com/Tyrrrz/DiscordChatExporter/releases)
 [![Discord](https://img.shields.io/discord/869237470565392384?label=discord)](https://discord.gg/2SUWKFnHSm)
 
-> 🟢 **Project status**: active<sup>[[?]](https://github.com/Tyrrrz/.github/blob/master/docs/project-status.md)</sup>
+> 🟢 **Project status**: ~~active<sup>[[?]](https://github.com/Tyrrrz/.github/blob/master/docs/project-status.md)</sup>~~ EOL (End of Life). I wanted to update this app to resolve some issues, but found that the original had continued with insane, defamatory and other commits that make the program less user friendly, so I searched for a *denazified* version and found this fork, https://github.com/kolya5544/DCE_without_Nazism, which will for me replace this version, being forward-compatible, if not fully updated, but certainly somewhat updated!
 
 **DiscordChatExporter** can be used to export message history from a [Discord](https://discord.com) channel to a file.
 It works with direct messages, group messages, and server channels, and supports Discord's dialect of markdown as well as all other rich media features.
